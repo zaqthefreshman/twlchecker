@@ -13,4 +13,4 @@ Usage
 --
 
 ``twlchecker`` to start checker. Then enter words.
-Note the word list is included in the repo however it is compiled in so the binary is stand alone
+Note the word list is included in the repo however it is compiled in using [go-bindata](https://github.com/jteeuwen/go-bindata) so the binary is stand alone
